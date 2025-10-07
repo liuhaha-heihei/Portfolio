@@ -13,3 +13,14 @@ https://www.coze.cn/s/Bu3IaaojoFw/
 3. 工作流
 
    <img width="2648" height="1201" alt="image" src="https://github.com/user-attachments/assets/973d8570-09a4-42e7-b670-0a1b8afc2cbf" />
+
+## 四、代码
+### 用于拆分用户提供的城市名的经度和纬度，以供后续星盘的测算
+async def main(args: Args) -> Output:
+    params = args.params
+    # 构建输出对象
+    ret: Output = {
+        "latitude": params['input'][0],
+        "longitude": params['input'][1],
+    }
+    return ret
