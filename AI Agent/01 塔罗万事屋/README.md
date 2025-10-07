@@ -16,6 +16,7 @@ https://www.coze.cn/s/Bu3IaaojoFw/
 
 ## 四、代码
 ### 用于拆分用户提供的城市名的经度和纬度，以供后续星盘的测算
+
 async def main(args: Args) -> Output:
     params = args.params
     # 构建输出对象
