@@ -13,7 +13,7 @@
 ## 三、数据来源、处理和可视化
 1. 数据来源：国家统计局、应急管理局、中国林业统计年鉴、万方数据、美国国家海洋和大气管理局、知网等
 2. 数据挖掘和处理：python、八爪鱼
-3. 数据可视化：
+3. 数据可视化：Flourish、Datawrapper、花火数图、镝数图表
 
 ## 四、数据可视化制图示例
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/2cb83665-d4d2-484f-8be6-b42d71e90b77" />
