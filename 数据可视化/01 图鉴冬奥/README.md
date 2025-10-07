@@ -1,4 +1,6 @@
 # 图鉴冬奥：掘金冰雪热 勇敢者突围
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a623a473-2aa8-432e-b1df-ddc6bad33be3" />
+
 ## 一、链接
 1. 可视化网页链接（需要科学上网）：
    
