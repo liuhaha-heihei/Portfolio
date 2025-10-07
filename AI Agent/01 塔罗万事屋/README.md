@@ -8,6 +8,8 @@ https://www.coze.cn/s/Bu3IaaojoFw/
 
 ## 三、实现路径
 1. 设计逻辑
-2. 工作流
+   <img width="3000" height="1680" alt="根据图进行美化(1)" src="https://github.com/user-attachments/assets/920c84a3-d50c-4b45-a890-d806b4fa621a" />
+
+3. 工作流
 
    <img width="2648" height="1201" alt="image" src="https://github.com/user-attachments/assets/973d8570-09a4-42e7-b670-0a1b8afc2cbf" />
